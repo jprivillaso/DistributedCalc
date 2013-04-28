@@ -15,3 +15,6 @@ It has an xml file with the server location.
 The xml file has the params, the method, and the also the location of the servers.
 
 
+JUAN PABLO RIVILLAS - 2013
+
+
