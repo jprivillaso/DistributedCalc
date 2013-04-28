@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<url>
+    <wscalc>
+        <url>http://localhost/WSCalc1/WebServices/WebService.php</url>
+    </wscalc>
+    <wscalc>
+        <url>http://localhost/WSCalc2/WebServices/WebService.php</url>
+    </wscalc>
+</url>

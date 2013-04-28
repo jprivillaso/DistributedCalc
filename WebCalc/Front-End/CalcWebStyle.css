@@ -1,0 +1,19 @@
+/* 
+    Document   : CalcWebStyle
+    Created on : 27/04/2013, 03:05:42 PM
+    Author     : Juan Rivillas
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#page {
+    /*border: 1px solid blueviolet;*/
+    margin: 0 auto;
+    margin-top: 0px;
+    width: 980px;
+    position: relative;
+}
+
+#page #wrapper{
+    text-align: center;
+}

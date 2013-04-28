@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<webservices>
+    <webservice>
+        <url>http://localhost/WSCalc1/WebServices/WebService.php</url>
+        <method>sum</method>
+        <params>
+            <p1>10</p1>
+            <p2>20</p2>
+        </params>
+        <result></result>
+    </webservice>
+
+    <webservice>
+        <url>http://localhost/WSCalc2/WebServices/WebService.php</url>
+        <method>subtract</method>
+        <params>
+            <p1>20</p1>
+            <p2>10</p2>
+        </params>
+        <result></result>
+    </webservice>
+    
+    <webservice>
+        <url>http://localhost/WSCalc1/WebServices/WebService.php</url>
+        <method>multiply</method>
+        <params>
+            <p1>5</p1>
+            <p2>5</p2>
+        </params>
+        <result></result>
+    </webservice>
+    
+    <webservice>
+        <url>http://localhost/WSCalc2/WebServices/WebService.php</url>
+        <method>divide</method>
+        <params>
+            <p1>16</p1>
+            <p2>2</p2>
+        </params>
+        <result></result>
+    </webservice>
+</webservices>
